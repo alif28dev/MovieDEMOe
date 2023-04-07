@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112751521431",
+    "project_id": "moviedemo-1fb42",
+    "storage_bucket": "moviedemo-1fb42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112751521431:android:0c3f6c04ef90584f2f43d2",
+        "android_client_info": {
+          "package_name": "com.alifdev.moviedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112751521431-pnjt8sv4ajggjirlhjj3dj0telh9vhdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alifdev.moviedemo",
+            "certificate_hash": "aca809692e117e245eaf22a15cfc386eb6c0cbf8"
+          }
+        },
+        {
+          "client_id": "112751521431-fh4gg2t3thntifk7sb5i2h1maq0o5ett.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfQI-PV_-z2mSx4lmaqGjX2-e_UNudLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112751521431-fh4gg2t3thntifk7sb5i2h1maq0o5ett.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
